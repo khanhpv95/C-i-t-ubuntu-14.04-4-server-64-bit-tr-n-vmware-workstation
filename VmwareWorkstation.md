@@ -30,86 +30,86 @@ VMware workstation có nhiều phiên bản cho nhiều hệ điếu hành khác
 Ở đây, ta sẽ dùng vmware workstation 12 để cài đặt hệ điều hành win 7. 
 <a name="moitruong"></a>
 ##2.1 Tạo môi trường
--**Bước 1:** Vào file chọn new virtual machine
+**Bước 1:** Vào file chọn new virtual machine
 
 <img src="http://i.imgur.com/0ke4amy.png">
 
--**Bước 2: ** Chọn custom và chọn next
+**Bước 2:** Chọn custom và chọn next
 
 <img src="http://i.imgur.com/8H7eZPc.png">
 
--**Bước 3:** Chọn Next.
+**Bước 3:** Chọn Next.
 
 <img src="http://i.imgur.com/7PesiFr.png">
 
--**Bước 4:** Chọn I will install the operating system later và chọn next.
--**Bước 5:** Chọn hệ điều hành muốn cài đặt và chọn next.
+**Bước 4:** Chọn I will install the operating system later và chọn next.
+**Bước 5:** Chọn hệ điều hành muốn cài đặt và chọn next.
 
 <img src="http://i.imgur.com/HwxXPLg.png">
 
--**Bước 6:** lưu tên máy cần cài đặt bà browser đến file lưu máy ảo.
+**Bước 6:** lưu tên máy cần cài đặt bà browser đến file lưu máy ảo.
 
 <img src="http://i.imgur.com/aBA6FGs.png">
 
--**Bước 7:** Chọn BIOS và next.
+**Bước 7:** Chọn BIOS và next.
 
 <img src="http://i.imgur.com/ux1uUIb.png">
 
--**Bước 8:** Chọn số vi xử lí, số lõi và chọn next.
+**Bước 8:** Chọn số vi xử lí, số lõi và chọn next.
 
 <img src="http://i.imgur.com/5vqBHSr.png">
 
--**Bước 9:** Chọn dung lượng RAM và chọn next.
+**Bước 9:** Chọn dung lượng RAM và chọn next.
 
 <img src="http://i.imgur.com/yLrt47a.png">
 
--**Bước 10:** Chọn loại mạng muốn sử dụng, ta chọn mặc định là NAT và chọn next.
+**Bước 10:** Chọn loại mạng muốn sử dụng, ta chọn mặc định là NAT và chọn next.
 
 <img src="http://i.imgur.com/dkE3QKm.png">
 
--**Bước 11:** Chọn LSI logic SAS và chọn next.
+**Bước 11:** Chọn LSI logic SAS và chọn next.
 
 <img src="http://i.imgur.com/8oCebD7.png">
 
--**Bước 12:** Chọn chuẩn disk SCSI và chọn next.
+**Bước 12:** Chọn chuẩn disk SCSI và chọn next.
 
 <img src="http://i.imgur.com/H49tzYq.png">
 
--**Bước 13:** Chọn Create a new virtual disk và chọn next. 
+**Bước 13:** Chọn Create a new virtual disk và chọn next. 
 
 <img src="http://i.imgur.com/ZMVHSMd.png">
 
--**Bước 14:** Chọn dung lượng ổ cứng và chọn next. 
+**Bước 14:** Chọn dung lượng ổ cứng và chọn next. 
 
 <img src="http://i.imgur.com/icsrIK5.png">
 
--**Bước 15:** Browser đến nơi lưu file disk ( tìm đến file lưu máy cần cài đặt) và chọn next. 
+**Bước 15:** Browser đến nơi lưu file disk ( tìm đến file lưu máy cần cài đặt) và chọn next. 
 
 <img src="http://i.imgur.com/l7bbPzI.png">
 
--**Bước 16:** Chọn Customize hardware để thiết lập đường dẫn file iso của hệ điều hành cần cài đặt. 
+**Bước 16:** Chọn Customize hardware để thiết lập đường dẫn file iso của hệ điều hành cần cài đặt. 
 
 <img src="http://i.imgur.com/7u3GNui.png">
 
--**Bước 17:** Chọn finish và kết thúc việc tạo môi trường cài đặt máy ảo.
+**Bước 17:** Chọn finish và kết thúc việc tạo môi trường cài đặt máy ảo.
 
 <img src="http://i.imgur.com/xWeUsNf.png">
 
 <a name="caidat1"></a>
 ##2.2  Hướng dẫn cài đặt win 7 trên vmware workstation 12.
--**Bước 1:**  Chọn Power on this virtual machine.
+**Bước 1:**  Chọn Power on this virtual machine.
 
 <img src="http://i.imgur.com/ztDw1vE.png">
 
--**Bước 2:** Chọn next.
+**Bước 2:** Chọn next.
 
 <img src="http://i.imgur.com/ONoEYMg.png">
 
--**Bước 3:** Chọn I accept the license term và chọn next. 
+**Bước 3:** Chọn I accept the license term và chọn next. 
 
 <img src="http://i.imgur.com/QmadUnK.png">
 
--**Bước 4:** Chọn next và chờ quá trình cài đặt. 
+**Bước 4:** Chọn next và chờ quá trình cài đặt. 
 
 <img src="http://i.imgur.com/7i0kIMQ.png">
 
