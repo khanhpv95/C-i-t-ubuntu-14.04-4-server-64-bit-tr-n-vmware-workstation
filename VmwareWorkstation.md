@@ -129,6 +129,7 @@ Trên tab Virtual Network Editor ta có thể thấy sau khi cài đặt Vmware 
 Để configure card NAT, t chọn vào card NAT, khi chọn card NAT, thì ta nhập vào dải IP cho card NAT, subnet mask và chọn NAT setting để thay đổi gateway cho card NAT. 
 
 <img src="http://i.imgur.com/2e4tztP.png">
+
 <img src="http://i.imgur.com/pmDONHT.png">
 
 Chọn Ok để kết thúc việc cấu hình card NAT.
