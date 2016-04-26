@@ -73,7 +73,7 @@ VMware workstation có nhiều phiên bản cho nhiều hệ điếu hành khác
 -**Bước 15:** Browser đến nơi lưu file disk ( tìm đến file lưu máy cần cài đặt) và chọn next. 
 <img src="http://imgur.com/l7bbPzI">
 
--**Bước 16: ** Chọn Customize hardware để thiết lập đường dẫn file iso của hệ điều hành cần cài đặt. 
+-**Bước 16:** Chọn Customize hardware để thiết lập đường dẫn file iso của hệ điều hành cần cài đặt. 
 <img src="http://imgur.com/7u3GNui">
 
 -**Bước 17:** Chọn finish và kết thúc việc tạo môi trường cài đặt máy ảo.
@@ -87,10 +87,10 @@ VMware workstation có nhiều phiên bản cho nhiều hệ điếu hành khác
 -**Bước 2:** Chọn next.
 <img src="http://imgur.com/ONoEYMg">
 
--**Bước 3: ** Chọn I accept the license term và chọn next. 
+-**Bước 3:** Chọn I accept the license term và chọn next. 
 <img src="http://imgur.com/QmadUnK">
 
--**Bước 4: ** Chọn next và chờ quá trình cài đặt. 
+-**Bước 4:** Chọn next và chờ quá trình cài đặt. 
 <img src="http://imgur.com/7i0kIMQ">
 
 ======================================================
@@ -106,7 +106,7 @@ Trên tab Virtual Network Editor ta có thể thấy sau khi cài đặt Vmware 
 **Ví dụ: configure card NAT:**
 Để configure card NAT, t chọn vào card NAT, khi chọn card NAT, thì ta nhập vào dải IP cho card NAT, subnet mask và chọn NAT setting để thay đổi gateway cho card NAT. 
 
-<img src="http://imgur.com/2e4tztP">
+<img src="http://i.imgur.com/2e4tztP.png">
 <img src="http://imgur.com/pmDONHT">
 
 Chọn Ok để kết thúc việc cấu hình card NAT.
