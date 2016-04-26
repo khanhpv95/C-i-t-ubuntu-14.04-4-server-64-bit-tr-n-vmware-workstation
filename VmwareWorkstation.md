@@ -16,7 +16,7 @@
 ##1. Giới thiệu về vmware workstation
 VMware workstation là một phần mềm giả lập mấy ảo của VMware, nó là một phần mềm tạo ra những máy tính ao, giống như một máy vật lý , chạy một hệ điều hành và các ứng dụng . Máy ảo sử dụng các nguồn tài nguyên phần cứng của máy vật lý mà nó chạy trên đó , những máy vật lý này được gọi là hệ thống máy chủ ảo hóa . Máy ảo có thiết bị ảo cung cấp các chức năng tương tự như vật lý phần cứng , nhưng  với những lợi ích bổ sung của nó là tính di động, dể quản lý và bảo mật.
 VMware workstation có nhiều phiên bản cho nhiều hệ điếu hành khác nhau như Windows, Linux, Mac OS… VMware workstation là phần mềm có tính phí.
-<a name=”tinhnang”></a>
+<a name="tinhnang"></a>
 ##2. Các tính năng nổi bật:
 <ul> 
 <li>Hỗ trợ đa dạng các nền tảng hệ điều hành khác nhau, bao gồm Windows, Macs, Linux…</li>
@@ -30,61 +30,61 @@ VMware workstation có nhiều phiên bản cho nhiều hệ điếu hành khác
 Ở đây, ta sẽ dùng vmware workstation 12 để cài đặt hệ điều hành win 7. 
 <a name="moitruong"></a>
 ##2.1 Tạo môi trường
--**Bước 1: ** Vào file chọn new virtual machine
+-**Bước 1:** Vào file chọn new virtual machine
 <img src="http://imgur.com/0ke4amy">
 
 -**Bước 2: ** Chọn custom và chọn next
 <img src="http://imgur.com/8H7eZPc">
 
--**Bước 3: ** Chọn Next.
+-**Bước 3:** Chọn Next.
 <img src="http://imgur.com/7PesiFr">
 
--**Bước 4: ** Chọn I will install the operating system later và chọn next.
--**Bước 5: ** Chọn hệ điều hành muốn cài đặt và chọn next.
+-**Bước 4:** Chọn I will install the operating system later và chọn next.
+-**Bước 5:** Chọn hệ điều hành muốn cài đặt và chọn next.
 <img src="http://imgur.com/HwxXPLg">
 
--**Bước 6: ** lưu tên máy cần cài đặt bà browser đến file lưu máy ảo.
+-**Bước 6:** lưu tên máy cần cài đặt bà browser đến file lưu máy ảo.
 <img src="http://imgur.com/aBA6FGs">
 
--**Bước 7: ** Chọn BIOS và next.
+-**Bước 7:** Chọn BIOS và next.
 <img src="http://imgur.com/ux1uUIb">
 
--**Bước 8: ** Chọn số vi xử lí, số lõi và chọn next.
+-**Bước 8:** Chọn số vi xử lí, số lõi và chọn next.
 <img src="http://imgur.com/5vqBHSr">
 
--**Bước 9: ** Chọn dung lượng RAM và chọn next.
+-**Bước 9:** Chọn dung lượng RAM và chọn next.
 <img src="http://imgur.com/yLrt47a">
 
--**Bước 10: ** Chọn loại mạng muốn sử dụng, ta chọn mặc định là NAT và chọn next.
+-**Bước 10:** Chọn loại mạng muốn sử dụng, ta chọn mặc định là NAT và chọn next.
 <img src="http://imgur.com/dkE3QKm">
 
--**Bước 11: ** Chọn LSI logic SAS và chọn next.
+-**Bước 11:** Chọn LSI logic SAS và chọn next.
 <img src="http://imgur.com/8oCebD7">
 
--**Bước 12: ** Chọn chuẩn disk SCSI và chọn next.
+-**Bước 12:** Chọn chuẩn disk SCSI và chọn next.
 <img src="http://imgur.com/H49tzYq">
 
--**Bước 13: ** Chọn Create a new virtual disk và chọn next. 
+-**Bước 13:** Chọn Create a new virtual disk và chọn next. 
 <img src="http://imgur.com/ZMVHSMd">
 
--**Bước 14: ** Chọn dung lượng ổ cứng và chọn next. 
-<img src=http://imgur.com/icsrIK5">
+-**Bước 14:** Chọn dung lượng ổ cứng và chọn next. 
+<img src="http://imgur.com/icsrIK5">
 
--**Bước 15: ** Browser đến nơi lưu file disk ( tìm đến file lưu máy cần cài đặt) và chọn next. 
+-**Bước 15:** Browser đến nơi lưu file disk ( tìm đến file lưu máy cần cài đặt) và chọn next. 
 <img src="http://imgur.com/l7bbPzI">
 
 -**Bước 16: ** Chọn Customize hardware để thiết lập đường dẫn file iso của hệ điều hành cần cài đặt. 
 <img src="http://imgur.com/7u3GNui">
 
--**Bước 17: ** Chọn finish và kết thúc việc tạo môi trường cài đặt máy ảo.
+-**Bước 17:** Chọn finish và kết thúc việc tạo môi trường cài đặt máy ảo.
 <img src="http://imgur.com/xWeUsNf">
 
 <a name="caidat1"></a>
 ##2.2  Hướng dẫn cài đặt win 7 trên vmware workstation 12.
--**Bước 1: **  Chọn Power on this virtual machine.
+-**Bước 1:**  Chọn Power on this virtual machine.
 <img src="http://imgur.com/ztDw1vE">
 
--**Bước 2: ** Chọn next.
+-**Bước 2:** Chọn next.
 <img src="http://imgur.com/ONoEYMg">
 
 -**Bước 3: ** Chọn I accept the license term và chọn next. 
