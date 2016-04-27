@@ -1,8 +1,8 @@
 #Cài đặt Ubuntu server 14.04-4 64 bit lên vmware worksation, tại máy trạm mỗi người.
 ##[1. Giới thiệu về Ubuntu](#gioithieu)
--[1.1 Sơ lược về Ubuntu](#khainiem)
--[1.2 Lịch sử](#lichsu)
--[1.3 Tính năng](#tinhnang)
+###[1.1 Sơ lược về Ubuntu](#khainiem)
+###[1.2 Lịch sử](#lichsu)
+###[1.3 Tính năng](#tinhnang)
 ##[2. Hướng dẫn cài đặt Ubuntu server 14.04-4](#caidat)
 ##[3. Tổng Kết](#tongket)
 
