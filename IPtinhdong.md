@@ -47,7 +47,7 @@ Và sửa file cấu hình network như sau:
 
 ##3. Tổng kết
 <li>Bài viết tổng hợp cách Thiết lập IP tĩnh và động bằng cách sửa file và câu lệnh.</li>
-Cảm ơn đã theo dõi.
+<li>Cảm ơn đã theo dõi.</li>
 
 
 
