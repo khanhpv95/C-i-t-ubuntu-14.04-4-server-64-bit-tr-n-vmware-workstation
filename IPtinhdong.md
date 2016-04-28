@@ -46,7 +46,7 @@ Và sửa file cấu hình network như sau:
 -Sau khi thiết lập dhcp ta reboot máy.
 
 ##3. Tổng kết
--Bài viết tổng hợp cách Thiết lập IP tĩnh và động bằng cách sửa file và câu lệnh.
+<li>Bài viết tổng hợp cách Thiết lập IP tĩnh và động bằng cách sửa file và câu lệnh.</li>
 Cảm ơn đã theo dõi.
 
 
