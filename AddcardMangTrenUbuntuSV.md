@@ -26,7 +26,7 @@ sau khi restart card mạng thì sử dụng lệnh `ip a` để kiểm tra xem 
 <img src="http://i.imgur.com/FtehZWS.png">
 
 #Tổng kết
--Bài viết ghi chép về cách add card mạng và cấu hình card mạng trên Ubuntu server.
--Cảm ơn đã theo dõi.
+<li>Bài viết ghi chép về cách add card mạng và cấu hình card mạng trên Ubuntu server.</li>
+<li>Cảm ơn đã theo dõi.</li>
 
 
